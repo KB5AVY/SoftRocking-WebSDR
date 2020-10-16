@@ -3,7 +3,7 @@
 
 # SoftRocking-WebSDR
 Easy Configuring a SoftrockSDR receiver to use with the WebSDR
-I am not a Linux expert by any means. I have a PhD, but My experience is clinical Geneticsbut. I am very passionate about radio and electronics. Ham radio has a sweet spot in my heart. 
+I am not a Linux expert by any means. I have a PhD, but My experience is clinical Genetics. I am very passionate about radio and electronics. Ham radio has a sweet spot in my heart. 
 Over the last several months, I've been struggling trying to set up my Websdr. Finally,  I believe I got it working.
  It's not the best out there, but it seems to be performing correctly. 
 Sadly, I couldn't find any reliable help.
